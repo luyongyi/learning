@@ -35,7 +35,6 @@ void func::replace()
 void func::deleted()
 {
     int a=0;
-    for(auto &c)
 }
 
 int main()
